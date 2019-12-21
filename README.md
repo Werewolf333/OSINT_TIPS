@@ -851,9 +851,9 @@ python sublist3r.py -d target.com -o results.txt
 -3-Subdomains can provide information about where the target is
 hosting their servers.
 
--4-Many website oweners may create subdomains to test new technology before applying it to the main site(beta.target.com). Such sites are insecure because they are used in the development stage and could be left open to attack.
+-4-Many website owners may create subdomains to test new technology before applying it to the main site(beta.target.com). Such sites are insecure because they are used in the development stage and could be left open to attack.
 
--5- may the main domain is protected AND well secured but this should not necessarily applied be applied to the subdomains
+-5-may the main domain is protected AND well secured but this should not necessarily applied be applied to the subdomains
 
 -6-you may discover a subdomain that have errors that may lead to vulnerabilities(leaking info,subdomain takeovers)
 
