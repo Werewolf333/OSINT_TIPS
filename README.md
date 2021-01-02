@@ -1,13 +1,3 @@
-# THIS REPOSITORY CONTAIN  114 OSINT TIPS.
-# THE REPOSITORY GONNA GET DAILY UPDATES AND THE NUMBER OF TIPS WILL  GET HIGHER EVERY DAY.
-# A very useful repository for ethical hackers & osint lovers & penetration testers & red teamers.
-# MORE TO COME 
-
-## Support.
-**Your generous donations will keep me motivated.**
-
-*Paypal:* [![Donate via Paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AmmarAmerHacker)
-
 
 # TIP:-1- Directory of Malicious IPs:
 
